@@ -1,0 +1,7 @@
+class demo2
+{
+public status void main(string args[])
+{
+system.out.println("danwik");
+}
+}
