@@ -4,5 +4,6 @@ public status void main(string args[])
 {
 system.out.println("danwik");
 system.out.println("reddy");
+system.out.println("sankar");
 }
 }
